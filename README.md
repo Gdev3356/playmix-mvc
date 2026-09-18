@@ -1,4 +1,4 @@
-# 🎧 Playmix 
+# 🎧 Playmix  
 
 **Playmix** é uma aplicação de streaming de música que permite aos usuários criar e gerenciar suas próprias playlists de maneira simples e intuitiva. Com uma interface amigável, você pode descobrir novas músicas, explorar diferentes gêneros e personalizar suas coleções musicais de acordo com suas preferências.
 
